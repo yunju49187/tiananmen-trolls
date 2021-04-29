@@ -1,0 +1,121 @@
+/*# sourceMappingURL=animation.css.map */
+
+@-webkit-keyframes cover {
+    0% {
+        background: transparent url('../images/bg_cs_01.jpg') left top no-repeat;
+        background-size: cover;
+        /* style */
+    }
+
+    35% {
+        background: transparent url('../images/bg_cs_02.jpg') left top no-repeat;
+        background-size: cover;
+    }
+
+    75% {
+        background: transparent url('../images/bg_cs_03.jpg') left top no-repeat;
+        background-size: cover;
+    }
+
+    100% {
+        background: transparent url('../images/bg_cs_01.jpg') left top no-repeat;
+        background-size: cover;
+        /* style */
+    }
+}
+
+@-moz-keyframes cover {
+    0% {
+        background: transparent url('../images/bg_cs_01.jpg') left top no-repeat;
+        background-size: cover;
+        /* style */
+    }
+
+    35% {
+        background: transparent url('../images/bg_cs_02.jpg') left top no-repeat;
+        background-size: cover;
+    }
+
+    75% {
+        background: transparent url('../images/bg_cs_03.jpg') left top no-repeat;
+        background-size: cover;
+    }
+
+    100% {
+        background: transparent url('../images/bg_cs_01.jpg') left top no-repeat;
+        background-size: cover;
+        /* style */
+    }
+}
+
+@-ms-keyframes cover {
+    0% {
+        background: transparent url('../images/bg_cs_01.jpg') left top no-repeat;
+        background-size: cover;
+        /* style */
+    }
+
+    35% {
+        background: transparent url('../images/bg_cs_02.jpg') left top no-repeat;
+        background-size: cover;
+    }
+
+    75% {
+        background: transparent url('../images/bg_cs_03.jpg') left top no-repeat;
+        background-size: cover;
+    }
+
+    100% {
+        background: transparent url('../images/bg_cs_01.jpg') left top no-repeat;
+        background-size: cover;
+        /* style */
+    }
+}
+
+@-o-keyframes cover {
+    0% {
+        background: transparent url('../images/bg_cs_01.jpg') left top no-repeat;
+        background-size: cover;
+        /* style */
+    }
+
+    35% {
+        background: transparent url('../images/bg_cs_02.jpg') left top no-repeat;
+        background-size: cover;
+    }
+
+    75% {
+        background: transparent url('../images/bg_cs_03.jpg') left top no-repeat;
+        background-size: cover;
+    }
+
+    100% {
+        background: transparent url('../images/bg_cs_01.jpg') left top no-repeat;
+        background-size: cover;
+        /* style */
+    }
+}
+
+@keyframes cover {
+    0% {
+        background: transparent url('../images/bg_cs_01.jpg') left top no-repeat;
+        background-size: cover;
+        /* style */
+    }
+
+    35% {
+        background: transparent url('../images/bg_cs_02.jpg') left top no-repeat;
+        background-size: cover;
+    }
+
+    75% {
+        background: transparent url('../images/bg_cs_03.jpg') left top no-repeat;
+        background-size: cover;
+    }
+
+    100% {
+        background: transparent url('../images/bg_cs_01.jpg') left top no-repeat;
+        background-size: cover;
+        /* style */
+    }
+}

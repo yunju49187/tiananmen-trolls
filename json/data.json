@@ -1,0 +1,40 @@
+{
+	"data":[
+		{
+			"caption":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur laoreet nisi non metus commodo varius. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis ac odio ac mauris egestas laoreet consequat feugiat turpis. Sed sit amet ligula ut diam posuere venenatis. Nullam dapibus diam a magna condimentum volutpat. Suspendisse in euismod augue. Nulla sagittis metus eu libero venenatis pharetra. Phasellus porttitor porta faucibus. Curabitur nec elementum elit, eu euismod diam. Nulla eu cursus justo.",
+			"img":"more1_01.png"
+		},
+		{
+			"caption":"Praesent eget ipsum diam. Aliquam erat volutpat. Vestibulum tincidunt dui a dolor suscipit, vel lacinia sem sagittis. Phasellus tincidunt tortor ut erat pellentesque, a sodales odio vehicula. Pellentesque placerat lectus quis metus tristique tempor. Morbi scelerisque ut ex at elementum. Fusce nec eleifend tellus, vitae volutpat ante. Suspendisse vitae enim tellus. In lacinia nunc leo, sit amet luctus arcu rhoncus non. Nullam placerat tortor leo, ac fermentum enim vestibulum lobortis. Morbi vel justo id est bibendum laoreet vel vitae quam.",
+			"img":"more1_02.png"
+		},
+		{
+			"caption":"Vivamus ac ligula varius ex tincidunt finibus nec eget purus. Etiam a faucibus nunc. Nunc blandit eget ante ut vestibulum. Suspendisse sodales tincidunt pellentesque. Morbi finibus accumsan bibendum. Nulla at felis ac ex pulvinar blandit. Vestibulum in odio elit.",
+			"img":"more2_01.png"
+		},
+		{
+			"caption":"Nullam volutpat felis id lorem dapibus suscipit. Proin fermentum est et elit vehicula finibus. Etiam aliquam mollis maximus. Pellentesque blandit pretium pretium. Phasellus commodo dictum purus sit amet tristique. Maecenas viverra leo in sem euismod, id consequat purus posuere. Curabitur metus neque, pulvinar nec placerat in.",
+			"img":"more2_02.png"
+		},
+		{
+			"caption":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur laoreet nisi non metus commodo varius. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis ac odio ac mauris egestas laoreet consequat feugiat turpis. Sed sit amet ligula ut diam posuere venenatis. Nullam dapibus diam a magna condimentum volutpat. Suspendisse in euismod augue. Nulla sagittis metus eu libero venenatis pharetra. Phasellus porttitor porta faucibus. Curabitur nec elementum elit, eu euismod diam. Nulla eu cursus justo.",
+			"img":"more2_03.jpg"
+		},
+		{
+			"caption":"Praesent eget ipsum diam. Aliquam erat volutpat. Vestibulum tincidunt dui a dolor suscipit, vel lacinia sem sagittis. Phasellus tincidunt tortor ut erat pellentesque, a sodales odio vehicula. Pellentesque placerat lectus quis metus tristique tempor. Morbi scelerisque ut ex at elementum. Fusce nec eleifend tellus, vitae volutpat ante. Suspendisse vitae enim tellus. In lacinia nunc leo, sit amet luctus arcu rhoncus non. Nullam placerat tortor leo, ac fermentum enim vestibulum lobortis. Morbi vel justo id est bibendum laoreet vel vitae quam.",
+			"img":"more3_01.png"
+		},
+		{
+			"caption":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur laoreet nisi non metus commodo varius. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis ac odio ac mauris egestas laoreet consequat feugiat turpis. Sed sit amet ligula ut diam posuere venenatis. Nullam dapibus diam a magna condimentum volutpat. Suspendisse in euismod augue. Nulla sagittis metus eu libero venenatis pharetra. Phasellus porttitor porta faucibus. Curabitur nec elementum elit, eu euismod diam. Nulla eu cursus justo.",
+			"img":"more3_02.png"
+		},
+		{
+			"caption":"Suspendisse vitae enim tellus. In lacinia nunc leo, sit amet luctus arcu rhoncus non. Nullam placerat tortor leo, ac fermentum enim vestibulum lobortis. Morbi vel justo id est bibendum laoreet vel vitae quam.",
+			"img":"more3_03.png"
+		},
+		{
+			"caption":"Sed sit amet ligula ut diam posuere venenatis. Nullam dapibus diam a magna condimentum volutpat.",
+			"img":"more3_04.png"			
+		}
+	]
+}
